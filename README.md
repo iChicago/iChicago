@@ -6,6 +6,3 @@
 ___
 ### Public Github status
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=iChicago&show_icons=true&hide_border=true" />
-___
-### Tech Stack
-<img src="assets/tech.svg" title="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS" alt="Flutter, Firebase, Appwrite, NestJs, ReactJS, Laravel, Dart, HTML, CSS, JS" /> <br /><br />
